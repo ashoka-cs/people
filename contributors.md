@@ -14,3 +14,4 @@ Keep adding your names to this list.
 * Scott Moses Sunarto ([smsunarto](https://github.com/smsunarto))
 * Y D Jain ([ydjain](https://github.com/ydjain))
 * Dishon Goro ([I-am-Dishon](https://github.com/I-am-Dishon/))
+* Matheus Del Claro ([mdelclaro](https://github.com/mdelclaro/))
