@@ -11,4 +11,4 @@ The code of people will be maintained on two branches: `master`, which has the c
 
 All of your pull requests will be tested to work with the current codebase under `dev`, passed by an automated build system(Travis CPI) and then merged. Stable builds under `dev`, once successfully working, will be merged into `master`.
 
-For any doubts regarding the project or contributing to it, feel free to open an issue.
+For any doubts regarding the project or contributing to it, feel free to open an issue or even hit us up with a email. You are welcome :)
