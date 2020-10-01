@@ -4,6 +4,7 @@ Keep adding your names to this list.
 
 * Dhruv Agarwal ([agdhruv](https://github.com/agdhruv))
 * Mayukh Nair ([mayukhnair](https://github.com/mayukhnair))
+* Sanchit bansal ([voidestrucor](https://github.com/sanchit-bansal))
 * Harsh Karamchandani ([harshk0525](https://github.com/harshk0525))
 * Mounika Smitha ([Mounika Smitha](https://github.com/kallepallimounikasmitha))
 * Jaime Sánchez ([citec](https://github.com/citec))
@@ -14,4 +15,4 @@ Keep adding your names to this list.
 * Scott Moses Sunarto ([smsunarto](https://github.com/smsunarto))
 * Y D Jain ([ydjain](https://github.com/ydjain))
 * Dishon Goro ([I-am-Dishon](https://github.com/I-am-Dishon/))
-* Sanchit bansal ([voidestrucor](https://github.com/voidestructor))
+
